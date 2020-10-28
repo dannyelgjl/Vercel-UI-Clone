@@ -6,7 +6,7 @@ UI Clone - Vercel (Homepage)
 
 <p align="center">
   <a href="https://github.com/rocketseat-content/youtube-clone-vercel-homepage/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-vercel-homepage?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
+    <img src="https://avatars1.githubusercontent.com/u/54491980?s=460&u=5457192f7674845b14a107f7791033cfcbabb036&v=4" alt="Contributors">
   </a>
 </p>
 
