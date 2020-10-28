@@ -14,7 +14,7 @@ UI Clone - Vercel (Homepage)
 
 ## Participants
 
-[<img src="https://avatars3.githubusercontent.com/u/10366880?s=460&v=4" width="75px;"/>](https://github.com/dannyelgjl)
+[<img src="https://avatars1.githubusercontent.com/u/54491980?s=460&u=5457192f7674845b14a107f7791033cfcbabb036&v=4" width="75px;"/>](https://github.com/dannyelgjl)
 
 [Daniel Jerônimo](https://github.com/dannyelgjl)
 
